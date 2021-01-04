@@ -1,3 +1,3 @@
-number = "+91 9990348664"
-number1 = "+91 7906949692"
-number2 = "+44 7809 606834"
+number = "your first number here."
+number1 = "your second number here."
+number2 = "your third number here."
